@@ -59,11 +59,12 @@ https://matplotlib.org/
 https://pandas.pydata.org/  
 
 10.)	Email Template
-https://cdn.theforage.com/vinternships/companyassets/e6nrxEAa6MHFh3Jmw/DCGoJxzfdJHirTYGe/1652216347093/Email%20template.docx 
+https://medium.com/@rahulaipawar/how-to-write-an-e-mail-to-client-228d9623fae4
 
 **TASK 2 : DATA MODELING**
 - Review a data model diagram provided by the Data Engineering team and create a strategic plan as to how you’ll use this data to answer the problem statement.
 - Summarize the choices and plan of work in a PowerPoint presentation.
+  
 
 **TASK 3 : MODEL BUILDING AND INTERPRETATION**
 - Combine, transform and model the datasets in a suitable way to answer the problem statement that the business has requested.
@@ -72,6 +73,21 @@ https://cdn.theforage.com/vinternships/companyassets/e6nrxEAa6MHFh3Jmw/DCGoJxzfd
 **TASK 4 : MACHINE LEARNING PRODUCTION**
 - Prepare a Python module that contains code to train a model and output the performance metrics for the Machine Learning engineering team.
 - Additionally,develop an application using either Gradio, Streamlit or FastAPI to deploy and test the models.
+| Models                                      | MAE   |
+| ------------------------------------------- | ----- |
+| SGD Linear Regression                       | 0.224 |
+| Support Vector Machine                      | 0.226 |
+| Random Forest                               | 0.237 |
+| Soft Voting Regressor (SGD LR, SVM)         | 0.224 |
+| Soft Voting Regressor (SGD LR, SVM, RF)     | 0.226 |
+| SGD Linear Regression - Tuned               | 0.223 |
+| Support Vector Machine - Tuned              | 0.223 |
+| Soft Voting Regressor (SGD LR, SVM) - Tuned | 0.223 |
+
+## Code and Packages Used
+
+Python version: 3.10.2
+Packages: os, pandas, numpy, matplotlib, seaborn, sklearn, datetime, datetime_truncate, joblib
 
 
 ## SCREESHOTS OF DEPLOYED APP
@@ -120,6 +136,16 @@ A streamlit app was added for further exploration of the model. The streamlit ap
 - Run the demo app (being at the root of the repository):
         
         Streamlit run streamlit.app.py
+## Figures
+
+### Unit Price Distribution
+![Unit Price Distribution](Figures/unit_price_distribution.png)
+
+### Sales Total Distribution
+![Sales Total Distribution](Figures/sales_total_distribution.png)
+
+### Sales By Category
+![Sales By Category](Figures/categories_by_sales.png)
 
 
 # EVALUATION
