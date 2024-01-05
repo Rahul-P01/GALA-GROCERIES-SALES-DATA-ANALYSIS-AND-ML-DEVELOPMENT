@@ -75,7 +75,7 @@ https://medium.com/@rahulaipawar/how-to-write-an-e-mail-to-client-228d9623fae4
 - Additionally,develop an application using either Gradio, Streamlit or FastAPI to deploy and test the models.
 ### Machine Learning Algorithm Scores
 | Models                                               | MAE   | 
-
+| ---------------------------------------------------- |------ |
 | SGD Linear Regression                                | 0.224 |
 
 | Support Vector Machine                               | 0.226 |
