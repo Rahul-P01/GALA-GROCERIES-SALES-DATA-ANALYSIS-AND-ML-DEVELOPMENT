@@ -75,19 +75,19 @@ https://medium.com/@rahulaipawar/how-to-write-an-e-mail-to-client-228d9623fae4
 - Additionally,develop an application using either Gradio, Streamlit or FastAPI to deploy and test the models.
 ### Machine Learning Algorithm Scores
 | Models                                               | MAE   | 
-
+|                                                              |
 | SGD Linear Regression                                | 0.224 |
-
+|                                                              |
 | Support Vector Machine                               | 0.226 |
-
-| Random Forest                                        | 0.237 |
-
+|
+|Random Forest                                         | 0.237 |
+|
 | Soft Voting Regressor (SGD LR, SVM)                  | 0.224 |
-
+|
 | Soft Voting Regressor (SGD LR, SVM, RF)              | 0.226 |
-
+|
 | SGD Linear Regression - Tuned                        | 0.223 |
-
+|
 | Support Vector Machine - Tuned                       | 0.223 |
 
 | Soft Voting Regressor (SGD LR, SVM) - Tuned          | 0.223 |
