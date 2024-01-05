@@ -29,6 +29,37 @@ Additionally, the team is to prepare and provide a python module that contains c
 **TASK 1 : EXPLORATORY DATA ANALYSIS**
 - Explore the client’s sales data as part of the Data Science team at Cognizant.
 - Communicate findings and recommendations in an email to the Data Science team leader.
+  
+1.)	Sample_sales_data
+https://cdn.theforage.com/vinternships/companyassets/e6nrxEAa6MHFh3Jmw/DCGoJxzfdJHirTYGe/1652216241761/sample_sales_data.csv
+
+2.)	Eda_walkthrough
+https://cdn.theforage.com/vinternships/companyassets/e6nrxEAa6MHFh3Jmw/DCGoJxzfdJHirTYGe/1652211590355/eda_walkthrough
+
+3.)	Eda.ipynb
+https://cdn.theforage.com/vinternships/companyassets/e6nrxEAa6MHFh3Jmw/DCGoJxzfdJHirTYGe/1652215992890/eda.ipynb
+
+4.)	Getting started with colab
+https://www.youtube.com/watch?v=i-HnvsehuSw
+
+5.)	AI from data to Roi
+ https://cdn.theforage.com/vinternships/companyassets/e6nrxEAa6MHFh3Jmw/DCGoJxzfdJHirTYGe/1652743458777/ai-from-data-to-roi.pdf
+                        
+6.)	How to upload a csv file into Google Colab
+https://www.youtube.com/watch?v=woHxvbBLarQ
+               
+7.)	 Seaborn Documentation
+https://seaborn.pydata.org/
+
+8.)	 Matplotlib documentation 
+https://matplotlib.org/
+
+
+9.)	Pandas documentation
+https://pandas.pydata.org/  
+
+10.)	Email Template
+https://cdn.theforage.com/vinternships/companyassets/e6nrxEAa6MHFh3Jmw/DCGoJxzfdJHirTYGe/1652216347093/Email%20template.docx 
 
 **TASK 2 : DATA MODELING**
 - Review a data model diagram provided by the Data Engineering team and create a strategic plan as to how you’ll use this data to answer the problem statement.
