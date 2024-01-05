@@ -98,9 +98,13 @@ A streamlit app was added for further exploration of the model. The streamlit ap
 
 
 ## CONTRIBUTORS
-| NAME  |   COUNTRY |   E-MAIL  |
-|:------|:----------|:----------|
-|Rahul Pawar|India|rahulaipawar@gmail.com|
+
+| NAME    :- Rahul Pawar|
+| E-MAIL  :- rahulaipawar@gmail.com | 
+| Linkedin:- www.linkedin.com/in/rahul-ai-pawar
+| Medium  :- https://medium.com/@rahulaipawar
+| Phone   :- 9098879776
+
 
 
 
