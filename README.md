@@ -107,7 +107,7 @@ A streamlit app was added for further exploration of the model. The streamlit ap
 
 | Medium  :- https://medium.com/@rahulaipawar |
 
-| Phone   :- 9098879776 |
+| Phone   :- +91 9098879776 |
 
 
 
